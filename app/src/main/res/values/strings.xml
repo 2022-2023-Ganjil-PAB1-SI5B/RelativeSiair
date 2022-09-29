@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="arr_nama">
+        <item>Ahmad Farisi</item>
+        <item>Ricardo Kaka</item>
+        <item>Andriy Shevchenko</item>
+        <item>Filippo Inzaghi</item>
+        <item>Charles De Katteleare</item>
+    </string-array>
 </resources>
